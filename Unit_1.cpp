@@ -43,4 +43,4 @@ int main(){
         cin>>y[i];
     }
     groupAverages(x,y,n,type);
-}
+}////
